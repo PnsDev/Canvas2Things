@@ -18,7 +18,7 @@ export default function Root() {
         <title>Canvas2Things</title>
         <meta name="description" content="Upgrade your scheduling experience with seamless Canvas Calendar integration for Things 3" />
         
-        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico?" />
 
         <meta property="og:url" content="https://canvas2things.pns.dev/" />
         <meta property="og:type" content="website" />
