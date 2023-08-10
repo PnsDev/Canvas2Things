@@ -21,7 +21,7 @@
     "node-ical": "^0.16.0",
     "solid-js": "^1.6.0",
     "solid-start": "^0.2.0",
-    "undici": "^5.11.0"
+    "undici": "^5.19.1"
   },
   "engines": {
     "node": "16.x"
